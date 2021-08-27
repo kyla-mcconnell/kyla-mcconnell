@@ -4,6 +4,7 @@
 :woman_teacher: Co-organizer of R-Ladies Freiburg
 
 ## Teaching materials
+- I recently gave a talk for the Why R foundation (July 2021) on the topic of "Julia for R Lovers: Ideas for a dual language workflow" featuring linear mixed effects models in a Julia-R workflow: ["juliaR"](https://github.com/kyla-mcconnell/juliaR)
 - Most of my teaching can be found in the R-Ladies Freiburg repository ["rladies/meetup-presentations_freiburg"](https://github.com/rladies/meetup-presentations_freiburg)
   - [Text Analysis](https://github.com/rladies/meetup-presentations_freiburg/blob/master/2020-07-Text_Analysis/Text%20Mining%20with%20R%20final.Rmd)
   - [Sentiment Analysis](https://github.com/rladies/meetup-presentations_freiburg/blob/master/2020-09-Sentiment_Analysis/RLadies_Freiburg_SentimentAnalysis.Rmd)
@@ -19,7 +20,6 @@
   
 - Also check out my M.A. level introduction to Exploratory Data Analysis: ["learn-stats"](https://github.com/kyla-mcconnell/learn_stats)
 - And our materials from the 2021 German Linguistic Society (DGfS) Ph.D. students workshop on "Data wrangling & reproducible reports with tidyverse and R-Markdown": ["tidyverse_for_linguists"](https://github.com/rstats-aficionadas/tidyverse_for_linguists/blob/main/Welcome%20to%20the%20tidyverse.Rmd)
-- I also gave a talk for the Why R foundation in July 2021 on the topic of "Julia for R Lovers: Ideas for a dual language workflow" feature linear mixed effects models in Julia: ["juliaR"](https://github.com/kyla-mcconnell/juliaR)
 
 ## Analysis code
 - Code for a paper currently under review utilizing LMMs in Julia in looking at how individual differences in experience affect the probablisitic processing of multiword units: ["inddiff_experience"](https://github.com/kyla-mcconnell/inddiff_experience/blob/main/spr_analysis_colloc.jmd)
