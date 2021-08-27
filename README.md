@@ -4,7 +4,7 @@
 :woman_teacher: Co-organizer of R-Ladies Freiburg
 
 ## Teaching materials
-- I recently gave a talk for the Why R foundation (July 2021) on the topic of "Julia for R Lovers: Ideas for a dual language workflow" featuring linear mixed effects models in a Julia-R workflow: ["juliaR"](https://github.com/kyla-mcconnell/juliaR)
+- Recent demo for the Why R foundation (July 2021) on the topic of "Julia for R Lovers: Ideas for a dual language workflow" featuring linear mixed effects models in a Julia-R workflow: ["juliaR"](https://github.com/kyla-mcconnell/juliaR)
 - Most of my teaching can be found in the R-Ladies Freiburg repository ["rladies/meetup-presentations_freiburg"](https://github.com/rladies/meetup-presentations_freiburg)
   - [Text Analysis](https://github.com/rladies/meetup-presentations_freiburg/blob/master/2020-07-Text_Analysis/Text%20Mining%20with%20R%20final.Rmd)
   - [Sentiment Analysis](https://github.com/rladies/meetup-presentations_freiburg/blob/master/2020-09-Sentiment_Analysis/RLadies_Freiburg_SentimentAnalysis.Rmd)
