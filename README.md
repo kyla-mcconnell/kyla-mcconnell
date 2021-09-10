@@ -1,6 +1,6 @@
 # Kyla McConnell
 :woman_scientist: Ph.D. student
-:woman_technologist: R, Julia & Python programmer
+:woman_technologist: R & Julia & Python
 :woman_teacher: Co-organizer of R-Ladies Freiburg
 
 ## Teaching materials
