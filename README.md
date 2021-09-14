@@ -1,7 +1,5 @@
 # Kyla McConnell
-:woman_scientist: Ph.D. student
-:woman_technologist: R & Julia & Python
-:woman_teacher: Co-organizer of R-Ladies Freiburg
+:woman_scientist: Psycholinguistics /  :woman_technologist: R, Julia, Python /  :woman_teacher: R-Ladies Freiburg & Julia Gender Inclusive
 
 ## Teaching materials
 - Recent demo for the Why R foundation (July 2021) on the topic of "Julia for R Lovers: Ideas for a dual language workflow" featuring linear mixed effects models in a Julia-R workflow: ["juliaR"](https://github.com/kyla-mcconnell/juliaR)
